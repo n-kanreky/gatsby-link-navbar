@@ -1,5 +1,13 @@
 import React from "react"
+import Layout from "../components/Layout/Layout"
 
-export default function Home() {
-  return <div>Hello world!</div>
+const Index = () => {
+  return (
+    <Layout>
+      <h1>This is Home.</h1>
+      <h2>これが　ホームページの　「h２」タグです</h2>
+    </Layout>
+  )
 }
+
+export default Index
