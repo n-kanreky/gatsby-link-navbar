@@ -5,7 +5,7 @@ const Hobby = () => {
   return (
     <Layout>
       <h1>This is Hobby.</h1>
-      <p>これが　Hobby のページです</p>
+      <p>ホビー</p>
     </Layout>
   )
 }
